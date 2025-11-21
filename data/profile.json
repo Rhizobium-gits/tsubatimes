@@ -1,0 +1,30 @@
+// data/profile.json
+{
+  "nameJp": "佐藤 翼",
+  "nameEn": "Tsubasa SATO",
+  "catchphrase": "I find harmony in structure and beauty in nature.",
+  "bio": "<p>微生物学、システム生物学、有人宇宙学にまたがる学際的アプローチを積極的に行っています。低重力・過重力環境でのヒト腸内細菌叢の動態メカニズム、細菌叢の時間列動態解析、水溶性月面コンクリートの開発などに携わっています。</p>",
+  "snsLinks": [
+    {"service": "note", "url": "https://note.com/283note_/portal"},
+    {"service": "GitHub", "url": "https://github.com/rhizobium-gits"},
+    {"service": "X (Twitter)", "url": "https://twitter.com/YourTwitterHandle"}
+  ],
+  "affiliations": [
+    "慶應義塾大学 環境情報学部 1年",
+    "慶應義塾大学 先端生命科学研究所 腸内細菌グループ (PI:福田真嗣)",
+    "東京科学大学 総合研究院 難治疾患研究所 計算システム生物学分野 (PI:島村徹平)",
+    "ADvance Lab 宇宙部門リーダー"
+  ],
+  "career": [
+    {"year": "2025", "details": "慶應義塾大学 環境情報学部"},
+    {"year": "2025", "details": "ADvance Lab 宇宙部門リーダー/副所長インターン"},
+    {"year": "2024", "details": "ADvance Lab 宇宙部門リーダー (株式会社リバネス)"},
+    {"year": "2023", "details": "日本農研機構 西日本農業研究センター インターン"},
+    {"year": "2018-2024", "details": "岡山白陵中学・高等学校"}
+  ],
+  "awards": [
+    {"year": "2025", "details": "TOP100 DOWNLOADED ARTICLES 2024 (Scientific Reports・Nature Portfolio)", "link": "https://www.nature.com/collections/ghbjijhbci"},
+    {"year": "2023", "details": "日本植物生理学会(JSPP) 奨励賞"},
+    {"year": "2023", "details": "京都大学宇宙ユニットシンポジウム 優秀賞"}
+  ]
+}
